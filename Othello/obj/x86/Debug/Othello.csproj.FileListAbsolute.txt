@@ -1,0 +1,15 @@
+C:\Users\Nicholas\Desktop\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\Nicholas\Desktop\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\Nicholas\Desktop\Othello\Othello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicholas\Desktop\Othello\Othello\obj\x86\Debug\Othello.exe
+C:\Users\Nicholas\Desktop\Othello\Othello\obj\x86\Debug\Othello.pdb
+C:\Users\KrazJ\Desktop\Othello\Othello\obj\x86\Debug\Othello.exe
+C:\Users\KrazJ\Desktop\Othello\Othello\obj\x86\Debug\Othello.pdb
+C:\Users\KrazJ\Desktop\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\KrazJ\Desktop\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\KrazJ\Desktop\Othello\Othello\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nicholas\Desktop\Othello2\Othello\Othello\obj\x86\Debug\Othello.exe
+C:\Users\Nicholas\Desktop\Othello2\Othello\Othello\obj\x86\Debug\Othello.pdb
+C:\Users\Nicholas\Desktop\Othello2\Othello\Othello\bin\Debug\Othello.exe
+C:\Users\Nicholas\Desktop\Othello2\Othello\Othello\bin\Debug\Othello.pdb
+C:\Users\Nicholas\Desktop\Othello2\Othello\Othello\obj\x86\Debug\ResolveAssemblyReference.cache
